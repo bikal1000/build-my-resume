@@ -21,7 +21,7 @@
 		"concurrently": "^4.1.0",
 		"cors": "^2.8.5",
 		"express": "^4.16.4",
-		"html-pdf": "^2.2.0",
+		"html-pdf": "^3.0.1",
 		"testproject": "file:client"
 	}
 }
